@@ -1,0 +1,9 @@
+# AC newsletter 01
+
+## Case study: bananas
+
+Max Ruas, Bioversity, France
+
+[Max Ruas](http://www.bioversityinternational.org/about-us/who-we-are/staff-bios/single-details-bios/ruas-max/) is an information system analyst at Bioversity, a CGIAR research center, in Montpellier, France.
+
+My role with Genesys is primarily as a data provider. I have supplied Genesys with information on accessions from around the world – everywhere from the Bioversity International Transit Centre (ITC) in Belgium to the Department of Agriculture and Fisheries, Queensland, Australia.First, I helped to aggregate genetic resources information on _Musa_ species onto a single platform, the [MUSA Germplasm Information System (MGIS)](http://www.crop-diversity.org/mgis/). This information was then made available through Genesys.Genesys has improved the quality of the information that data providers now make available. For example, Genesys motivated us as data providers to agree on common standards for data, making it much easier for people to use the portal. People can now retrieve the information they seek in a straightforward manner. They can also find interesting graphics on the material held in various *Musa* genebanks.Genesys also allows us to perform further checks for gaps and errors in the data, in addition to the checks we do on MGIS. Uploading our data to Genesys allows us to easily locate any gaps or coding errors and correct them.Genesys has become the first port of call for anyone looking for information related to plant genetic resources. Data providers, like our partners, gain more visibility, and through Genesys their collections are available to more people.
