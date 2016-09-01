@@ -4,7 +4,7 @@
 
 The Genesys website is undergoing a facelift and, more importantly, the way it works behind the scenes is being significantly improved.
 
-"Over time, as we have added new features to make Genesys more useful, the site has become a little disorganised," said Matija Obreza, who is leading the revamp. "So we are going back and rethinking how we present the information."
+> "Over time, as we have added new features to make Genesys more useful, the site has become a little disorganised," said Matija Obreza, who is leading the revamp. "So we are going back and rethinking how we present the information."
 
 The goal, Matija says, it to make the experience of looking for, finding and then ordering germplasm of interest as easy and seamless as possible.
 
