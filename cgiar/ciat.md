@@ -3,9 +3,7 @@ Author: Jeremy Cherfas
 Date:   29 August 2016
 Format: snippet
 
-# CIAT
-## International Center for Tropical Agriculture
-## Centro Internacional de Agricoltura Tropical
+# International Center for Tropical Agriculture (CIAT)
 
 [CIAT's genebank][ciat] in Cali, Colombia, lists almost 65,000 accessions in Genesys. The vast majority are seed crops, mainly beans, but CIAT also has a mandate to conserve cassava and tropical forages, and those too are held in the genebank. Almost 2000 of the accessions are wild relatives. Since 1980 CIAT has distributed more than 90,000 samples of 13,363 accessions to 110 countries.
 

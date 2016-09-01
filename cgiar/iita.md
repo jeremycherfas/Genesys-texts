@@ -3,8 +3,7 @@ Author: Jeremy Cherfas
 Date:   30 August 2016
 Format: snippet
 
-# IITA
-## International Institute for Tropical Agriculture
+# International Institute for Tropical Agriculture (IITA)
 
 The [Genetic Resources Centre][iita] of IITA in Ibadan, Nigeria, maintains crops important for sub-Saharan Africa: banana, cassava and yam as tissue culture and field plants and bambara groundnut, cowpea, maize and sorghum, and a few miscellaneous legumes, as seed. Details of about 31,000 accessions are available through Genesys.
 

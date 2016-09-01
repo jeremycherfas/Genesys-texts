@@ -3,8 +3,7 @@ Author: Jeremy Cherfas
 Date:   31 August 2016
 Format: snippet
 
-# IRRI
-## International Rice Research Institute
+# International Rice Research Institute (IRRI)
 
 The [IRRI genebank][irri] in Los Baños, Philippines, holds the world's largest collection of rice diversity, with more than 127,000 accessions of cultivated rice and wild relatives. About 38% of the accessions are traditional cultivars or landraces, 11% are breeding materials or advanced cultivars and 3% are wild relatives. (Most of the rest are "not classified".) IRRI has distributed about 130,000 samples to 75 countries.
 

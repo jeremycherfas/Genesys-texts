@@ -3,8 +3,7 @@ Author: Jeremy Cherfas
 Date:   31 August 2016
 Format: snippet
 
-# ICRAF
-## World Agroforestry Center
+# World Agroforestry Center (ICRAF)
 
 The [ICRAF genebank][worldagroforestry] in Nairobi, Kenya, conserves the diversity of a wide range of agroforestry tree species, most of which are a source of food or forage. Accessions are stored as seed and in field genebanks in the regions where ICRAF works.
 

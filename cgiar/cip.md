@@ -3,9 +3,7 @@ Author: Jeremy Cherfas
 Date:   31 August 2016
 Format: snippet
 
-# CIP
-## International Potato Center
-## Centro Internacional de la Papa
+# International Potato Center (CIP)
 
 The [CIP genebank][cipotato] in Lima, Peru, is responsible for potatoes and sweetpotatoes and other Andean roots and tubers. The entire collection at CIP is about 16,000 accessions. Genesys lists the 3000 accessions maintained *in vitro*, 2000 of potato and 1000 of sweet potato. About 63% of these are breeding material or advanced cultivars, while 37% are traditional cultivars or landraces.
 

@@ -3,8 +3,7 @@ Author: Jeremy Cherfas
 Date:   29 August 2016
 Format: snippet
 
-# ICARDA
-## International Centre for Agricultural Research in Dry Areas
+# International Centre for Agricultural Research in Dry Areas (ICARDA)
 
 [ICARDA][icarda2] holds almost 150,000 accessions, largely of its mandate crops -- barley, wheat, food legumes and forage legumes -- and the _Rhizobium_ bacteria that enable legumes to fix nitrogen. About 21% of accessions are wild relatives, which are likely to [become increasingly important as sources of the genetic diversity][link to CWR project] needed to cope with challenges such as climate change. Just under 5% are traditional varieties or landraces.
 

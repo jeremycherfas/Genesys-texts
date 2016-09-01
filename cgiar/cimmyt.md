@@ -3,9 +3,7 @@ Author: Jeremy Cherfas
 Date:   31 August 2016
 Format: snippet
 
-# CIMMYT
-## International Maize and Wheat Improvement Center
-## Centro Internacional de Mejoramiento de Maíz y Trigo
+# International Maize and Wheat Improvement Center (CIMMYT)
 
 [CIMMYT's genebank][cimmyt] in Texcoco, Mexico, primarily houses collections of maize and wheat. The [wheat collection][adobe], with about 140,000 accessions from 140 countries, is the largest in the world. The [maize collection][adobe 2] of 28,000 accessions includes the world's largest collection of maize landraces.
 

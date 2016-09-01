@@ -3,8 +3,7 @@ Author: Jeremy Cherfas
 Date:   26 August 2016
 Format: snippet
 
-# AfricaRice
-## Africa Rice Center
+# Africa Rice Center (AfricaRice)
 
 The [genebank of AfricaRice][africarice] is in Cotonou, Benin, where the centre had a temporary headquarters until late {==2015==}{>>Is it moving back to Abidjan?JC<<}. The collection contains close to 20,000 accessions, the vast majority of them (78%) _Oryza sativa_, Asian rice. Accessions of the African species _O. glaberrima_, however, which form 17% of the collections, are crucial to the breeding of varieties able to perform well under the conditions of sub-Saharan Africa.
 

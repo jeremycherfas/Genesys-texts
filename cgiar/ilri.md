@@ -3,8 +3,7 @@ Author: Jeremy Cherfas
 Date:   30 August 2016
 Format: snippet
 
-# ILRI
-## International Livestock Research Institute
+# International Livestock Research Institute (ILRI)
 
 [ILRI's genebank][ilri], which is responsible for forages and some dual-purpose crops, is housed in Addis Ababa, Ethiopia. The collection is perhaps the most diverse in Genesys. The collection holds more than 1000 species and the 20 most numerous species account for well under a third (29%) of more than 20,000 accessions. Not surprisingly, the vast majority of the accessions (97%) are wild species rather than cultivars or landraces.
 

@@ -1,16 +1,15 @@
 Title:   icrisat 01
-Author: Jeremy Cherfas  
-Date:   29 August 2016 
-Format: snippet   
+Author: Jeremy Cherfas
+Date:   29 August 2016
+Format: snippet
 
-#ICRISAT
-##International Centre for Research on Agriculture in the Semi-Arid Tropics
+# International Centre for Research on Agriculture in the Semi-Arid Tropics (ICRISAT)
 
 ICRISAT focuses on pulses and cereals, including millets, that are important for food security in the semi-arid areas of the world. The [main genebank collection][icrisat] is at the centre's headquarters in Hyderabad, India, and there are additional facilities in Niger, Kenya and Zimbabwe.
 
 More than 123,000 accessions are listed in Genesys. Almost 50,000 of these are pulses of various kinds, mostly chickpea, pigeonpea and groundnut, and their wild relatives. Sorghum is the most common single species, with 39,000 accessions. There are about 33,000 accessions of various millets, including almost 23,000 of pearl millet.
 
-Traditional cultivars and landraces make up the bulk of the holdings (80%) and about 14% are breeding and research lines. About 2% are wild relatives.  
+Traditional cultivars and landraces make up the bulk of the holdings (80%) and about 14% are breeding and research lines. About 2% are wild relatives.
 
 ICRISAT helped to develop the idea of mini-core collections, a representative sample of about 1% of the accessions of a species, selected to help breeders find the traits they are interested in.
 
