@@ -1,7 +1,4 @@
-Title:   ilri 01
-Author: Jeremy Cherfas
-Date:   30 August 2016
-Format: snippet
+Title: ilri 01 Author: Jeremy Cherfas Date: 30 August 2016 Format: snippet
 
 # International Livestock Research Institute (ILRI)
 
@@ -13,7 +10,7 @@ Characterization of forages at ILRI looks in detail at phenotypical variation, p
 
 To promote the use of forages throughout sub-Saharan Africa, ILRI's genebank operates a [Herbage Seed Unit][ilri 2] that offers training to national scientists and technicians and provides starter quantities of selected seed for multiplication and distribution.
 
-ILRI and CIAT created the [Tropical Forages Database][tropicalforages], an online version of an interactive selection tool that helps researchers, farmers and their advisers to find the most appropriate forages. ILRI also maintains [a searchable local database of forage diversity][156].
+ILRI and CIAT created the [Tropical Forages Database][tropicalforages], an online version of an interactive selection tool that helps researchers, farmers and their advisers to find the most appropriate forages. ILRI also maintains [a searchable database of forage diversity][156].
 
 A few (6.6%) of the accessions are safety duplicated at the Svalbard Global Seed Vault, with other safety duplicates held in Australia, the United Kingdom and at CIAT in Colombia.
 
