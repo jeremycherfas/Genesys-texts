@@ -2,7 +2,7 @@
 
 ## Biodiversity in Trust
 
-Eleven member institutes of the CGIAR Consortium maintain genebanks. Collectively, these form the largest store of agricultural biodiversity in the world. More than 710,000 accessions range from unimproved wild relatives of crops through to elite breeding lines developed by CGIAR scientists. CGIAR genebanks also maintain tree species and bacteria. Some accessions are kept as seeds, others in field genebanks and yet others in test-tube, or _in-vitro_, collections.
+Eleven member institutes of the CGIAR Consortium maintain genebanks. Collectively, these form the largest store of agricultural biodiversity in the world. More than 750,000 accessions range from unimproved wild relatives of crops through to elite breeding lines developed by CGIAR scientists. CGIAR genebanks also maintain tree species and bacteria. Some accessions are kept as seeds, others in field genebanks and yet others in test-tube, or _in-vitro_, collections.
 
 Over the past 10 years, CGIAR genebanks have [distributed more than a million samples][cgiar] to plant breeders and crop researchers. You can [use Genesys to order material][genesys-pgr] from CGIAR and other genebanks.
 
