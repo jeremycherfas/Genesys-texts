@@ -6,11 +6,11 @@ The [IRRI genebank][irri] in Los Baños, Philippines, holds the world's largest 
 
 Genebank accessions have been instrumental in creating all of the high-yielding rice varieties released by IRRI over the years. They have also been invaluable to rice breeders in national programmes. A [recent study][cgiar] found that 90% of the varieties released by national programmes included at least one IRRI accession in their pedigree.
 
-Except for a small number of wild relatives that cannot be sonserved as seed, all accessions are maintained in an active collection at 2-4°C and at -20°C for long-term storage. Seed is tested regularly for viability and regenerated if the germination rate falls below 8%. IRRI is also researching ways to extend the longevity of seeds in storage and to predict viability more accurately.
+Except for a small number of wild relatives that cannot be conserved as seed, all accessions are maintained in an active collection at 2-4°C and at -20°C for long-term storage. Seed is tested regularly for viability and regenerated if the germination rate falls below 85%. IRRI is also researching ways to extend the longevity of seeds in storage and to predict viability more accurately.
 
 Characterisation of the accessions for phenotypical and molecular characteristics is an important genebank activity. Data are shared through Genesys and through the International Rice Genebank Collection Information System ([IRGCIS]). IRRI accessions and scientists also played a large part in the effort to [sequence 3000 rice genomes][irri 2], and IRRI now leads the [International Rice Informatics Consortium][irri 3], which aims to sequence and make data available on as much rice diversity as possible.
 
-More than 95% of the accessions at IRRI are [safety duplicated both in the Svalbard Global Seed Vault][phl001-sgsv] and in the National Center for Genetic Resources Preservation in the USA.
+About 95% of the accessions at IRRI are [safety duplicated both in the Svalbard Global Seed Vault][phl001-sgsv] and in the National Center for Genetic Resources Preservation in the USA.
 
 [cgiar]: http://www.cgiar.org/consortium-news/genebanks-investing-in-biodiversity-for-future-generations/
 [irgcis]: http://www.irgcis.irri.org:81/grc/irgcishome.html
