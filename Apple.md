@@ -1,5 +1,5 @@
 # Apple
-## Malus spp.
+## *Malus* spp.
 
 Like most fruit trees, selected apple varieties are generally maintained as trees in field collections. [Genesys lists almost 39,000 accessions of various kinds of apple](https://www.genesys-pgr.org/explore/overview?filter=%7B%22taxonomy.genus%22%3A%5B%22Malus%22%5D%7D), including wild relatives that breeders may find useful. About 5% of the accessions are in the form of seeds, but because apple seeds do not breed true, these are not as useful to plant breeders, although they may be of value as reservoirs of diversity. A few samples of apple tissue are cryopreserved in liquid nitrogen.
 
