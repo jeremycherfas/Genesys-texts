@@ -1,12 +1,12 @@
 Title:   barley 01
-Author: Jeremy Cherfas  
-Date:   21 September 2016 
-Format: snippet   
+Author: Jeremy Cherfas
+Date:   21 September 2016
+Format: snippet
 
-#Barley
-##*Hordeum* spp
+# Barley
+## *Hordeum* spp
 
-Barley was first domesticated in the area called the Fertile Crescent, where its wild progenitor *Hordeum vulgare* subsp. *spontaneum* still grows. Other centres of diversity of cultivated barley are found in Ethiopia and Morocco and parts of Asia. Wild relatives are distributed widely in  Europe, Asia, Africa and the Americas. 
+Barley was first domesticated in the area called the Fertile Crescent, where its wild progenitor *Hordeum vulgare* subsp. *spontaneum* still grows. Other centres of diversity of cultivated barley are found in Ethiopia and Morocco and parts of Asia. Wild relatives are distributed widely in  Europe, Asia, Africa and the Americas.
 
 The importance of barley as one of the original staple cereals is reflected in the number of accessions in Genesys: [more than 176,000](https://goo.gl/95A238). Most of the accessions in Genesys are advanced material, including released cultivars and research lines. About 22% are traditional varieties and landraces. Accessions are widely distributed, with the largest collection holding only a third of the listed accessions.
 

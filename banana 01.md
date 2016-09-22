@@ -1,10 +1,10 @@
 Title:   banana 01
-Author: Jeremy Cherfas  
-Date:   21 September 2016 
-Format: snippet   
+Author: Jeremy Cherfas
+Date:   21 September 2016
+Format: snippet
 
-#Banana
-##*Musa* spp
+# Banana
+## *Musa* spp
 
 Banana is one of the most ancient fruit crops. It originated in Southeast Asia and the Pacific region and is believed to have first been domesticated more than 7000 years ago. East and Central Africa are secondary centres of domestication and diversity.
 

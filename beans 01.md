@@ -1,10 +1,10 @@
 Title:   beans 01
-Author: Jeremy Cherfas  
-Date:   22 September 2016 
-Format: snippet   
+Author: Jeremy Cherfas
+Date:   22 September 2016
+Format: snippet
 
-#Beans
-##*Phaseolus* spp
+# Beans
+## *Phaseolus* spp
 Beans of the genus *Phaseolus*, like all pulses, are an important source of protein for many people around the world. In sub-Saharan Africa, more than 200 million people depend on beans as their most important staple. Beans are grown for their green leaves (often fed to livestock), and immature pods and seeds, but it is the dry seeds -- which are nutritious and store well -- that are the primary end product.
 
 The most important crops globally are the common bean, *P. vulgaris*, and the runner or kidney bean, *P. coccinea* with *P. lunatus*, the lima bean, and *P. acutifolius*, the tepary bean, playing a locally important role in the Americas.
