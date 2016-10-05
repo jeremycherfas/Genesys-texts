@@ -1,14 +1,15 @@
-Title:  coconut-01  
-Author: Jeremy Cherfas  
-Date:   5 October 2016 
-Format: snippet  
+Title: coconut-01
+Author: Jeremy Cherfas
+Date: 5 October 2016
+Format: snippet
 
-#Coconut
-##*Cocos nucifera*
+# Coconut
+
+## _Cocos nucifera_
 
 Coconuts are the fruit of a palm and are found throughout the tropics. Coconuts supply many human needs, including food, drink and building materials. Their ability to survive long periods in seawater, and their value to early seafaring people, has resulted in them being widely dispersed.
 
-There are two distinct types, known as *niu kafa* and *niu vai*, the names in Samoan for traditional Polynesian varieties. *Niu kafa* coconuts are triangular and oblong with a large fibrous husk, while *niu vai* types are more rounded and contain plentiful sweet coconut “water” when unripe. *Niu vai* types are often borne on dwarf trees, which suggests that they are more domesticated. However, [a DNA analysis][plos] indicates two independent centres of domestication, one in island Southeast Asia and one on the southern margins of the Indian subcontinent. *Niu vai* types arose only in the Pacific basin.
+There are two distinct types, known as _niu kafa_ and _niu vai_, the names in Samoan for traditional Polynesian varieties. _Niu kafa_ coconuts are triangular and oblong with a large fibrous husk, while _niu vai_ types are more rounded and contain plentiful sweet coconut "water" when unripe. _Niu vai_ types are often borne on dwarf trees, which suggests that they are more domesticated. However, [a DNA analysis][plos] indicates two independent centres of domestication, one in island Southeast Asia and one on the southern margins of the Indian subcontinent. _Niu vai_ types arose only in the Pacific basin.
 
 Genesys lists [168 coconut accessions][goo]. The bulk of these (86%) are in a field genebank at the Station de Recherche Marc Delorme in Ivory Coast, with the remainder in the USA. About 43% are traditional cultivars and landraces and 40% are improved cultivars.
 
